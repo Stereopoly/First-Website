@@ -63,10 +63,11 @@ nav ul li a:hover {
   right: 0;
   bottom: 0;
   margin: auto;
+  margin-left: 6%;
   padding: 10px;
-  width: 80%;
+  width: 65%;
   height: 96%;
-  
+
   color: #171717;
   font-family: sans-serif;
   text-align: left;
@@ -90,7 +91,42 @@ nav ul li a:hover {
 
 body {
 
-} 
+}
+
+#rightside {
+  display: block;
+  position: absolute;
+  top: 300px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  margin-left: 73%;
+  padding: 10px;
+  width: 19.5%;
+  height: 96%;
+
+  color: #171717;
+  font-family: sans-serif;
+  text-align: left;
+  font-family: "Arial";
+  
+  background-color: #efefef;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+}
+
+#rightside h2 {
+  margin: 0;
+  padding-top: 3%;
+  padding-bottom: 0px;
+  font-family: "Arial";
+
+  
+  color: #ea4444;
+  font-size: 1.5em;
+}
+
+
 
 
 
